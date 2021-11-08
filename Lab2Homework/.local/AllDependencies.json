@@ -3502,11 +3502,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Lab1Homework",
-      "projectName": "Lab1Homework",
-      "projectPath": "C:\\Users\\Maria\\Desktop\\RPA-Labs\\Lab1Homework\\.local",
+      "projectUniqueName": "Lab2Homework",
+      "projectName": "Lab2Homework",
+      "projectPath": "C:\\Users\\Maria\\Documents\\UiPath\\Lab2Homework\\.local",
       "packagesPath": "C:\\Users\\Maria\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maria\\Desktop\\RPA-Labs\\Lab1Homework\\.local"
+      "outputPath": "C:\\Users\\Maria\\Documents\\UiPath\\Lab2Homework\\.local"
     },
     "frameworks": {
       "net461": {
